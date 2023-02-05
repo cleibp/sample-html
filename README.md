@@ -1,7 +1,7 @@
 <h1 align="center"> 🚀 Exemplo de HTML </h1>
 
 ## ✍️ Descrição
-Exemplificação da sintaxe geral e básica da Linguagem Pascal
+Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML
 
 
 ## 📥 Clone/Baixe

@@ -26,6 +26,7 @@ Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML
 .
 ├── README.md
 └── index.html
+└── style.css
 ```
 
 ## 👋🏽 DEMO

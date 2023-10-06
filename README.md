@@ -30,7 +30,8 @@ Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART
 ```
 
 ## 👋🏽 DEMO
-[Publicação em Github Pages](https://cleibp.github.io/sample-html/) 
+[Publicação em Github Pages](https://cleibp.github.io/sample-html/)
+
 [Publicação em Codepen](https://codepen.io/cleibp/pen/wvxjdKZ) 
 
 ## Contatos
